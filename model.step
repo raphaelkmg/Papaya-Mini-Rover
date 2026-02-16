@@ -1,0 +1,11 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION(('Papaya Mini Rover model'), '1');
+FILE_NAME('papaya_mini_rover.step','2026-02-16T00:00:00',('Your\u00a0Name'),('DIY Robotics'), '','', '');
+FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2'));
+ENDSEC;
+DATA;
+  /* Placeholder STEP file for the Papaya Mini Rover.  Replace with your
+     exported assembly from CAD software. */
+ENDSEC;
+END-ISO-10303-21;
